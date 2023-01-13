@@ -1,6 +1,6 @@
 # Overview
 
-Collection of Code Wars Kata i've completed overtime.
+Collection of Code Wars Kata I've completed.
 
 Built on top of my ts-prettier-boilerplate repo.
 
